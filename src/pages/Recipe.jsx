@@ -65,7 +65,6 @@ const DetailWrapper=styled(motion.div)`
     li{
     list-style-type:none;
     font-size:1.22rem;
-    line-height:2.5rem;
     }
     ul{
     margin-top:2rem;
